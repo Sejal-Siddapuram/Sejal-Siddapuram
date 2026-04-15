@@ -1,20 +1,18 @@
-# Hi 👋, I'm Sejal Siddapuram
+# Hi , I'm Sejal Siddapuram
 
 ### Computer Science student focused on problem solving and core CS fundamentals
 
-- 🔭 I'm currently working on **building a strong foundation in core computer science concepts through hands-on projects and problem solving**
+-  I'm currently working on **building a strong foundation in core computer science concepts through hands-on projects and problem solving**
 
-- 🌱 I'm currently learning **Operating Systems, Computer Networks, and Machine Learning fundamentals**
+-  I'm currently learning **Operating Systems, Computer Networks, and Machine Learning fundamentals**
 
-- 👯 I'm looking to collaborate on **beginner-friendly projects that emphasize clean logic, algorithms, and core CS concepts**
+-  I'm looking to collaborate on **beginner-friendly projects that emphasize clean logic, algorithms, and core CS concepts**
 
-- 🤝 I'm looking for help with **applying theoretical CS concepts to real-world problem solving**
+-  I'm looking for help with **applying theoretical CS concepts to real-world problem solving**
 
-- 💬 Ask me about **problem solving, core CS fundamentals, C programming, and Git/GitHub workflows**
+-  Ask me about **problem solving, core CS fundamentals, C programming, and Git/GitHub workflows**
 
-- 📫 How to reach me **Email: sejal.siddapuram@gmail.com**
-
-- ⚡ Fun fact **I like focusing on fundamentals before moving to frameworks**
+-  How to reach me **Email: sejal.siddapuram@gmail.com**
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1o6DjHTayaa3H6LtHXT5bJTDBAoYSTElG/view?usp=drive_link)**
 
