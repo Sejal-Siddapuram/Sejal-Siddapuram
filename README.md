@@ -14,7 +14,7 @@
 
 -  How to reach me **Email: sejal.siddapuram@gmail.com**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1o6DjHTayaa3H6LtHXT5bJTDBAoYSTElG/view?usp=drive_link)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/10RPKQ88kTmtkHYDFjpsvNcMgxKYom2zv/view?usp=drive_link)**
 
 ---
 
