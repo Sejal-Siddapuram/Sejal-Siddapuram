@@ -1,22 +1,12 @@
 # Hi , I'm Sejal Siddapuram
-
-### Computer Science student focused on problem solving and core CS fundamentals
-
--  I'm currently working on **building a strong foundation in core computer science concepts through hands-on projects and problem solving**
-
--  I'm currently learning **Operating Systems, Computer Networks, and Machine Learning fundamentals**
-
--  I'm looking to collaborate on **beginner-friendly projects that emphasize clean logic, algorithms, and core CS concepts**
-
--  I'm looking for help with **applying theoretical CS concepts to real-world problem solving**
-
--  Ask me about **problem solving, core CS fundamentals, C programming, and Git/GitHub workflows**
-
+### Computer Science student researching security in LLM-integrated and agentic systems
+-  I'm currently working on **detection pipelines and benchmarking frameworks for LLM & agentic system vulnerabilities as a Summer Research Intern at PESU Innovation Lab × Akamai Technologies**
+-  I'm currently learning **LLM security, prompt injection defenses, and agentic system evaluation**
+-  I'm looking to collaborate on **projects around AI/ML security, backend systems, and applied data structures**
+-  I'm looking for help with **scaling detection pipelines and exploring new attack/defense benchmarks in agentic security**
+-  Ask me about **LLM security, prompt injection detection, Python, FastAPI, Docker, and Git/GitHub workflows**
 -  How to reach me **Email: sejal.siddapuram@gmail.com**
-
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/10RPKQ88kTmtkHYDFjpsvNcMgxKYom2zv/view?usp=drive_link)**
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
